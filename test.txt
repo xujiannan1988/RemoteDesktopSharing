@@ -1,4 +1,3 @@
-It is a LAN based Desktop Sharing Application in Windows by which a User can use the whole desktop of other User connected by the LAN.
 
 Steps to follow:
 
